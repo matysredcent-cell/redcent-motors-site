@@ -1,0 +1,31 @@
+{
+  "seller": "REDCENT MOTORS",
+  "siren": "995272945",
+  "source": "Leboncoin",
+  "vehicles": [
+    {
+      "active": true,
+      "title": "BMW Série 1 F20 120d BVA Sport – chaînes neuves",
+      "price": 9990,
+      "year": 2012,
+      "km": 210000,
+      "fuel": "Diesel",
+      "gearbox": "Automatique",
+      "published": "2026-10-01T20:36:00+02:00",
+      "image": "https://img.leboncoin.fr/api/v1/lbcpb1/images/9c/e0/46/9ce046d9dbee416bd0956f200cc8d77b7812cfec.jpg?rule=ad-large",
+      "url": "https://www.leboncoin.fr/ad/voitures/3276019026"
+    },
+    {
+      "active": true,
+      "title": "BMW Z4 2.5i 177CH – 6 cylindres – cuir",
+      "price": 14990,
+      "year": 2006,
+      "km": 59000,
+      "fuel": "Essence",
+      "gearbox": "Manuelle",
+      "published": "2026-09-30T20:44:00+02:00",
+      "image": "https://img.leboncoin.fr/api/v1/lbcpb1/images/e5/24/aa/e524aa74859f6af71cc7228dce5583a803545c67.jpg?rule=ad-large",
+      "url": "https://www.leboncoin.fr/ad/voitures/3279755172"
+    }
+  ]
+}
